@@ -25,10 +25,10 @@ Penilaian
 Library Resources
 *******************
 
-1. Codeigniter adalah framework php utama yang akan kita gunakan dalam tutorial ini ` Codeigniter <https://www.codeigniter.com/>`_.
-2. Bootstrap adalah kerangka kerja untuk mempercantik antarmuka pengguna (UI) `Bootstrap <http://getbootstrap.com/>`_.
-3. Jquery adalah kerangka kerja javascript yang berfungsi untuk membantu menyederhanakan penulisan skrip berbasis AJAX ` Jquery <http://jquery.com/>`_.
-4. Datatables adalah plugin yang dibangun dari jquery untuk menampilkan data dalam bentuk tabel dan telah terintegrasi dengan filter, pertunjukan per halaman, dan pagination. ` Datatables <https://datatables.net/download/index>`_.
+1. Codeigniter adalah framework php utama yang akan kita gunakan dalam tutorial ini `Download Codeigniter <https://www.codeigniter.com/>`_.
+2. Bootstrap adalah kerangka kerja untuk mempercantik antarmuka pengguna (UI) `Download Bootstrap <http://getbootstrap.com/>`_.
+3. Jquery adalah kerangka kerja javascript yang berfungsi untuk membantu menyederhanakan penulisan skrip berbasis AJAX `Download Jquery <http://jquery.com/>`_.
+4. Datatables adalah plugin yang dibangun dari jquery untuk menampilkan data dalam bentuk tabel dan telah terintegrasi dengan filter, pertunjukan per halaman, dan pagination. `Download Datatables <https://datatables.net/download/index>`_.
 
 ************
 Video Tutorial
