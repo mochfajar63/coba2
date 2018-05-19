@@ -16,19 +16,19 @@ Deskripsi Tugas
 Penilaian
 **************************
 
-● Video tutorialnya harus bisa diikuti oleh yang menonton video tersebut 
-● Video tutorial diupload ke youtube 
-● Source code nya di upload ke github 
-● Ini adalah salah satu syarat untuk mengikuti UAS
+- Video tutorialnya harus bisa diikuti oleh yang menonton video tersebut 
+- Video tutorial diupload ke youtube 
+- Source code nya di upload ke github 
+- Ini adalah salah satu syarat untuk mengikuti UAS
 
 *******************
 Library Resources
 *******************
 
-`1. Codeigniter <https://www.codeigniter.com/>`_.
-`2. Bootstrap <http://getbootstrap.com/>`_.
-`3. Jquery <http://jquery.com/>`_.
-`4. Datatables <https://datatables.net/download/index>`_.
+1. Codeigniter adalah framework php utama yang akan kita gunakan dalam tutorial ini ` Codeigniter <https://www.codeigniter.com/>`_.
+2. Bootstrap adalah kerangka kerja untuk mempercantik antarmuka pengguna (UI) `Bootstrap <http://getbootstrap.com/>`_.
+3. Jquery adalah kerangka kerja javascript yang berfungsi untuk membantu menyederhanakan penulisan skrip berbasis AJAX ` Jquery <http://jquery.com/>`_.
+4. Datatables adalah plugin yang dibangun dari jquery untuk menampilkan data dalam bentuk tabel dan telah terintegrasi dengan filter, pertunjukan per halaman, dan pagination. ` Datatables <https://datatables.net/download/index>`_.
 
 ************
 Video Tutorial
